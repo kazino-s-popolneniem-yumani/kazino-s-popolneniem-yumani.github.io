@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-s-popolneniem-yumani.github.io
+Sitemap: https://kazino-s-popolneniem-yumani.github.io/sitemap.xml
